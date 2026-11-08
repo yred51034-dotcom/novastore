@@ -1,0 +1,19 @@
+{
+  "name": "nova-store",
+  "version": "1.4.5",
+  "private": true,
+  "description": "Nova Store Android/Web avec client Supabase local et corrections de stabilité",
+  "scripts": {
+    "build": "node build.js",
+    "check": "node --check build.js"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.2.1",
+    "@capacitor/core": "^6.2.1",
+    "@supabase/supabase-js": "^2.80.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.2.1",
+    "esbuild": "^0.25.0"
+  }
+}

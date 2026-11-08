@@ -1,0 +1,6 @@
+{
+  "appId": "com.novastore.app",
+  "appName": "Nova Store",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
